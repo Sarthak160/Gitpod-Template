@@ -6,7 +6,7 @@ This is a [Golang CLI](https://golang.org) template configured for ephemeral dev
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-golang-cli)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Sarthak160/Gitpod-Template)
 
 ## Get Started With Your Own Project
 
